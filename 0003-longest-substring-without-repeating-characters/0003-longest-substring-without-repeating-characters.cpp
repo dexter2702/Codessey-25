@@ -4,7 +4,7 @@ public:
         int maxLen = 0; int count = 0;
         int left = 0;
 
-        set<char>st;
+        unordered_set<char>st;
 
         for(int i=0; i<s.length(); i++){
             if(st.find(s[i])==st.end()){
