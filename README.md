@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dexter2702/Codessey-25/tree/master/0209-minimum-size-subarray-sum) |
+| [0875-longest-mountain-in-array](https://github.com/dexter2702/Codessey-25/tree/master/0875-longest-mountain-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dexter2702/Codessey-25/tree/master/0209-minimum-size-subarray-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/dexter2702/Codessey-25/tree/master/0875-longest-mountain-in-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/dexter2702/Codessey-25/tree/master/0875-longest-mountain-in-array) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/dexter2702/Codessey-25/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
