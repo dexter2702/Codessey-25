@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dexter2702/Codessey-25/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dexter2702/Codessey-25/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dexter2702/Codessey-25/tree/master/0001-two-sum) |
 | [0152-maximum-product-subarray](https://github.com/dexter2702/Codessey-25/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/dexter2702/Codessey-25/tree/master/0209-minimum-size-subarray-sum) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/dexter2702/Codessey-25/tree/master/0674-longest-continuous-increasing-subsequence) |
