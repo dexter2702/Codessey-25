@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/dexter2702/Codessey-25/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/dexter2702/Codessey-25/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/dexter2702/Codessey-25/tree/master/0209-minimum-size-subarray-sum) |
+| [0435-non-overlapping-intervals](https://github.com/dexter2702/Codessey-25/tree/master/0435-non-overlapping-intervals) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/dexter2702/Codessey-25/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0875-longest-mountain-in-array](https://github.com/dexter2702/Codessey-25/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/1019-squares-of-a-sorted-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/dexter2702/Codessey-25/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/dexter2702/Codessey-25/tree/master/0435-non-overlapping-intervals) |
 | [0875-longest-mountain-in-array](https://github.com/dexter2702/Codessey-25/tree/master/0875-longest-mountain-in-array) |
 ## Enumeration
 |  |
@@ -63,5 +65,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dexter2702/Codessey-25/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dexter2702/Codessey-25/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/dexter2702/Codessey-25/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/dexter2702/Codessey-25/tree/master/0435-non-overlapping-intervals) |
 | [1019-squares-of-a-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/1019-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/dexter2702/Codessey-25/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
