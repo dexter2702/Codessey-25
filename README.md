@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dexter2702/Codessey-25/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/dexter2702/Codessey-25/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dexter2702/Codessey-25/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/dexter2702/Codessey-25/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dexter2702/Codessey-25/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dexter2702/Codessey-25/tree/master/0005-longest-palindromic-substring) |
 | [0152-maximum-product-subarray](https://github.com/dexter2702/Codessey-25/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/dexter2702/Codessey-25/tree/master/0435-non-overlapping-intervals) |
 | [0875-longest-mountain-in-array](https://github.com/dexter2702/Codessey-25/tree/master/0875-longest-mountain-in-array) |
