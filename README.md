@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dexter2702/Codessey-25/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/dexter2702/Codessey-25/tree/master/0005-longest-palindromic-substring) |
+| [0125-valid-palindrome](https://github.com/dexter2702/Codessey-25/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/dexter2702/Codessey-25/tree/master/0179-largest-number) |
 ## Sliding Window
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/dexter2702/Codessey-25/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/dexter2702/Codessey-25/tree/master/0125-valid-palindrome) |
 | [0875-longest-mountain-in-array](https://github.com/dexter2702/Codessey-25/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
