@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dexter2702/Codessey-25/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/dexter2702/Codessey-25/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/dexter2702/Codessey-25/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/dexter2702/Codessey-25/tree/master/0179-largest-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dexter2702/Codessey-25/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dexter2702/Codessey-25/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/dexter2702/Codessey-25/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dexter2702/Codessey-25/tree/master/0125-valid-palindrome) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/dexter2702/Codessey-25/tree/master/0324-wiggle-sort-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
