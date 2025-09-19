@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dexter2702/Codessey-25/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dexter2702/Codessey-25/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/dexter2702/Codessey-25/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dexter2702/Codessey-25/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
@@ -16,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dexter2702/Codessey-25/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/dexter2702/Codessey-25/tree/master/0179-largest-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/dexter2702/Codessey-25/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dexter2702/Codessey-25/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/dexter2702/Codessey-25/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/dexter2702/Codessey-25/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/dexter2702/Codessey-25/tree/master/0713-subarray-product-less-than-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dexter2702/Codessey-25/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Array
