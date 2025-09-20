@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dexter2702/Codessey-25/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dexter2702/Codessey-25/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/dexter2702/Codessey-25/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dexter2702/Codessey-25/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/dexter2702/Codessey-25/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dexter2702/Codessey-25/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/dexter2702/Codessey-25/tree/master/0179-largest-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dexter2702/Codessey-25/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Sliding Window
@@ -120,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
