@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dexter2702/Codessey-25/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dexter2702/Codessey-25/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/dexter2702/Codessey-25/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dexter2702/Codessey-25/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/dexter2702/Codessey-25/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0387-first-unique-character-in-a-string) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/dexter2702/Codessey-25/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/dexter2702/Codessey-25/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/dexter2702/Codessey-25/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dexter2702/Codessey-25/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/dexter2702/Codessey-25/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0151-reverse-words-in-a-string) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dexter2702/Codessey-25/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dexter2702/Codessey-25/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/dexter2702/Codessey-25/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dexter2702/Codessey-25/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dexter2702/Codessey-25/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/dexter2702/Codessey-25/tree/master/0075-sort-colors) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/dexter2702/Codessey-25/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dexter2702/Codessey-25/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/dexter2702/Codessey-25/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dexter2702/Codessey-25/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dexter2702/Codessey-25/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/0088-merge-sorted-array) |
