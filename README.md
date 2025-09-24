@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/dexter2702/Codessey-25/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/dexter2702/Codessey-25/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/dexter2702/Codessey-25/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/dexter2702/Codessey-25/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dexter2702/Codessey-25/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/dexter2702/Codessey-25/tree/master/0057-insert-interval) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dexter2702/Codessey-25/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/dexter2702/Codessey-25/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/dexter2702/Codessey-25/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
