@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/dexter2702/Codessey-25/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/dexter2702/Codessey-25/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/dexter2702/Codessey-25/tree/master/0367-valid-perfect-square) |
 | [0713-subarray-product-less-than-k](https://github.com/dexter2702/Codessey-25/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dexter2702/Codessey-25/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/dexter2702/Codessey-25/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dexter2702/Codessey-25/tree/master/0007-reverse-integer) |
+| [0367-valid-perfect-square](https://github.com/dexter2702/Codessey-25/tree/master/0367-valid-perfect-square) |
 ## Stack
 |  |
 | ------- |
