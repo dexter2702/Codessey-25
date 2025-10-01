@@ -1,50 +1,47 @@
 class Solution {
 public:
-    int firstPos(vector<int>arr, int low, int high, int k){
-   int ans = -1;
+    int firstPos(vector<int>nums, int low, int high, int target){
+        int ans = -1;
 
-   while(low<=high){
-       int mid = (low+high)/2;
-       if(arr[mid]==k){
-           ans=mid;
-           high=mid-1;
-       }
-       else if(arr[mid]<k){
-           low = mid+1;
-       }
-       else{
-           high = mid-1;
-       }
-   }
-   return ans;
-}
-
-int lastPos(vector<int>arr, int low, int high, int k){
-    int ans = -1;
-
-   while(low<=high){
-       int mid = (low+high)/2;
-       if(arr[mid]==k){
-           ans=mid;
-           low=mid+1;
-       }
-       else if(arr[mid]<k){
-           low = mid+1;
-       }
-       else{
-           high = mid-1;
-       }
-   }
-   return ans;
-}
-    vector<int> searchRange(vector<int>& arr, int k) {
-        vector<int>ans;
-        int lo = 0;
-        int hi = arr.size()-1;
-        int a = firstPos(arr,lo,hi,k);
-        int b = lastPos(arr,lo,hi,k);
-        ans.push_back(a);
-        ans.push_back(b);
+        while(low<=high){
+            int mid = low + (high-low)/2;
+            if(nums[mid]==target){
+                ans = mid;
+                high = mid-1;
+            }
+            else if(nums[mid]<target) low = mid + 1;
+            else high = mid - 1;
+        }
         return ans;
+    }
+
+    int lastPos(vector<int>nums, int low, int high, int target){
+        int ans = -1;
+
+        while(low<=high){
+            int mid = low + (high-low)/2;
+            if(nums[mid]==target){
+                ans = mid;
+                low = mid+1;
+            }
+            else if(nums[mid]<target) low = mid + 1;
+            else high = mid - 1;
+        }
+        return ans;
+    }
+
+    vector<int> searchRange(vector<int>& nums, int target) {
+        vector<int>res;
+        int n = nums.size();
+        
+
+        int low = 0, high = n-1;
+
+        int a = firstPos(nums, low, high, target);
+        int b = lastPos(nums, low, high, target);
+
+        res.push_back(a);
+        res.push_back(b);
+        return res;
     }
 };
