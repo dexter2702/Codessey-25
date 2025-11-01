@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dexter2702/Codessey-25/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dexter2702/Codessey-25/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/dexter2702/Codessey-25/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dexter2702/Codessey-25/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dexter2702/Codessey-25/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/dexter2702/Codessey-25/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0387-first-unique-character-in-a-string) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/dexter2702/Codessey-25/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dexter2702/Codessey-25/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dexter2702/Codessey-25/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dexter2702/Codessey-25/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/dexter2702/Codessey-25/tree/master/0344-reverse-string) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/dexter2702/Codessey-25/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dexter2702/Codessey-25/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/dexter2702/Codessey-25/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/dexter2702/Codessey-25/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dexter2702/Codessey-25/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/dexter2702/Codessey-25/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/dexter2702/Codessey-25/tree/master/0908-middle-of-the-linked-list) |
