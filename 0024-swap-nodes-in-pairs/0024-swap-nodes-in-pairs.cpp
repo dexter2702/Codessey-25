@@ -10,21 +10,21 @@
  */
 class Solution {
 public:
-    ListNode* swapPairs(ListNode* head) {
-        
-        if(!head)return head;
-        if(!head->next)return head;
-        ListNode temp(0);
-        temp.next = head;
-        ListNode* current = &temp;
-        while(current->next!=NULL && current->next->next!=NULL){
-            ListNode* first = current->next;
-            ListNode* second = current->next->next;
-            first->next = second->next;
-            current->next = second;
-            current->next->next = first;
-            current = current->next->next;
+    ListNode* swapPairs(ListNode* head){
+        ListNode * dummy = new ListNode(0);
+        dummy->next = head;
+        ListNode* curr = dummy;
+
+        while(curr->next!=nullptr && curr->next->next!=nullptr){
+            ListNode* first = curr->next;
+            ListNode* second = curr->next->next;
+
+            first->next = second -> next;
+            second->next = first;
+            curr->next = second;
+
+            curr = first;
         }
-        return temp.next;
+        return dummy->next;
     }
 };
