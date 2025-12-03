@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dexter2702/Codessey-25/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dexter2702/Codessey-25/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/dexter2702/Codessey-25/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/dexter2702/Codessey-25/tree/master/0394-decode-string) |
 ## Recursion
 |  |
@@ -261,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/dexter2702/Codessey-25/tree/master/1185-find-in-mountain-array) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/dexter2702/Codessey-25/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
