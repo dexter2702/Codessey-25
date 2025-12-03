@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dexter2702/Codessey-25/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dexter2702/Codessey-25/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/dexter2702/Codessey-25/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dexter2702/Codessey-25/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/dexter2702/Codessey-25/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dexter2702/Codessey-25/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/dexter2702/Codessey-25/tree/master/0394-decode-string) |
 ## Recursion
@@ -266,5 +268,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/dexter2702/Codessey-25/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/dexter2702/Codessey-25/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
