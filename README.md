@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dexter2702/Codessey-25/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/dexter2702/Codessey-25/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/dexter2702/Codessey-25/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/dexter2702/Codessey-25/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/dexter2702/Codessey-25/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dexter2702/Codessey-25/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dexter2702/Codessey-25/tree/master/0055-jump-game) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dexter2702/Codessey-25/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/dexter2702/Codessey-25/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/dexter2702/Codessey-25/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/dexter2702/Codessey-25/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/dexter2702/Codessey-25/tree/master/0152-maximum-product-subarray) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dexter2702/Codessey-25/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/dexter2702/Codessey-25/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dexter2702/Codessey-25/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/dexter2702/Codessey-25/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/dexter2702/Codessey-25/tree/master/0324-wiggle-sort-ii) |
