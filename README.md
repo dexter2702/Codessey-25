@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/dexter2702/Codessey-25/tree/master/1185-find-in-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/dexter2702/Codessey-25/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/dexter2702/Codessey-25/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/dexter2702/Codessey-25/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dexter2702/Codessey-25/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/dexter2702/Codessey-25/tree/master/0324-wiggle-sort-ii) |
 | [0410-split-array-largest-sum](https://github.com/dexter2702/Codessey-25/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/dexter2702/Codessey-25/tree/master/0435-non-overlapping-intervals) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/dexter2702/Codessey-25/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/dexter2702/Codessey-25/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Divide and Conquer
 |  |
